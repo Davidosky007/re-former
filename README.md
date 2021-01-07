@@ -1,24 +1,76 @@
-# README
+# Re-former-app
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+![Microverse](https://img.shields.io/badge/Microverse-blueviolet)
 
-Things you may want to cover:
+## About the Project
 
-* Ruby version
+This project is based on the [Odin Project Blog App](https://www.theodinproject.com/courses/ruby-on-rails/lessons/ruby-on-rails-ruby-on-rails).In this project, we got to spend some quality time with models. We did some data modeling and putting our active record knowledge to practice by building our own light weight Reddit clone.
 
-* System dependencies
+- Adding gems for extra features
 
-* Configuration
+A list of commonly used resources that I find helpful is listed in the acknowledgments.
 
-* Database creation
+## Table of Contents
 
-* Database initialization
+- [Re-former-app](#re-former-app)
+  - [About the Project](#about-the-project)
+  - [Table of Contents](#table-of-contents)
+    - [Built With](#built-with)
+  - [Getting Started](#getting-started)
+  - [Author](#author)
+  - [Contributing](#contributing)
+  - [Show your support](#show-your-support)
+  - [License](#license)
+  - [Acknowledgements](#acknowledgements)
 
-* How to run the test suite
+### Built With
 
-* Services (job queues, cache servers, search engines, etc.)
+- [Ruby on Rails](https://rubyonrails.org/)
+- [Ruby](https://www.ruby-lang.org/en/)
+- [SASS(SCSS)](https://sass-lang.com/)
 
-* Deployment instructions
+## Getting Started
 
-* ...
+To get a local copy up and running follow these simple example steps.
+
+1. On the project GitHub page, navigate to the main page of the repository.
+2. Under the repository name, locate and click on a green button named `Code`. 
+3. Copy the project URL as displayed.
+4. If you're running the Windows Operating System, open your command prompt. On Linux, Open your terminal. 
+5. Change the current working directory to the location where you want the cloned directory to be made. Leave as it is if the current location is where you want the project to be.  
+6. Type git clone, and then paste the URL you copied in Step 3. <br>
+e.g. $ git clone https://github.com/yourUsername/yourProjectName
+7. Press Enter. Your local copy will be created.  
+
+## Author
+
+👤 **David Bassey**
+
+- GitHub: [@davidosky007](https://github.com/davidosky007)
+- Twitter: [@davidosky2](https://twitter.com/Davidosky2)
+- LinkedIn: [David Bassey](https://www.linkedin.com/in/david-bassey-akan/)
+
+## Contributing
+
+Contributions, issues, and feature requests are welcome!
+Feel free to check the [issues page](../../issues).
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b featured_micro_reddit`)
+3. Commit your Changes (`git commit -m 'Adds some nice features '`)
+4. Push to the Branch (`git push origin featured_micro_reddit`)
+5. Open a Pull Request
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## License
+
+This project is [MIT](./LICENSE) licensed.
+
+## Acknowledgements
+
+- [Odin Project Blog App](https://www.theodinproject.com/courses/ruby-on-rails/lessons/ruby-on-rails-ruby-on-rails)
+- [Jumpstart Lab’s Blogger Tutorial](http://tutorials.jumpstartlab.com/projects/blogger.html)
+- [Rails Guides](https://guides.rubyonrails.org/)
